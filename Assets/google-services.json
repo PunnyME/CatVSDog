@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "825687240091",
+    "project_id": "login-34853",
+    "storage_bucket": "login-34853.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825687240091:android:561e02d81f50fbebcc053e",
+        "android_client_info": {
+          "package_name": "com.iss.googlelogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzpQajS8nGwRF6wzD00yOXns22PphMPt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

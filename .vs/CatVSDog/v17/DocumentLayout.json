@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thejo\\Documents\\CatVSDog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{616D1362-9497-C8D6-2E9C-250EE492BC62}|Assembly-CSharp.csproj|c:\\users\\thejo\\documents\\catvsdog\\assets\\scripts\\readgooglesheet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{616D1362-9497-C8D6-2E9C-250EE492BC62}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\readgooglesheet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616D1362-9497-C8D6-2E9C-250EE492BC62}|Assembly-CSharp.csproj|C:\\Users\\thejo\\Documents\\CatVSDog\\assets\\scripts\\gameoveruimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{616D1362-9497-C8D6-2E9C-250EE492BC62}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameoveruimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616D1362-9497-C8D6-2E9C-250EE492BC62}|Assembly-CSharp.csproj|C:\\Users\\thejo\\Documents\\CatVSDog\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{616D1362-9497-C8D6-2E9C-250EE492BC62}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616D1362-9497-C8D6-2E9C-250EE492BC62}|Assembly-CSharp.csproj|C:\\Users\\thejo\\Documents\\CatVSDog\\assets\\scripts\\playercharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{616D1362-9497-C8D6-2E9C-250EE492BC62}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616D1362-9497-C8D6-2E9C-250EE492BC62}|Assembly-CSharp.csproj|C:\\Users\\thejo\\Documents\\CatVSDog\\assets\\scripts\\specialitemmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{616D1362-9497-C8D6-2E9C-250EE492BC62}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\specialitemmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616D1362-9497-C8D6-2E9C-250EE492BC62}|Assembly-CSharp.csproj|C:\\Users\\thejo\\Documents\\CatVSDog\\assets\\scripts\\throwitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{616D1362-9497-C8D6-2E9C-250EE492BC62}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\throwitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616D1362-9497-C8D6-2E9C-250EE492BC62}|Assembly-CSharp.csproj|C:\\Users\\thejo\\Documents\\CatVSDog\\assets\\scripts\\selectdifficultyuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{616D1362-9497-C8D6-2E9C-250EE492BC62}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\selectdifficultyuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616D1362-9497-C8D6-2E9C-250EE492BC62}|Assembly-CSharp.csproj|C:\\Users\\thejo\\Documents\\CatVSDog\\assets\\scripts\\selectmodeuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{616D1362-9497-C8D6-2E9C-250EE492BC62}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\selectmodeuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616D1362-9497-C8D6-2E9C-250EE492BC62}|Assembly-CSharp.csproj|C:\\Users\\thejo\\Documents\\CatVSDog\\assets\\scripts\\mainmenuuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{616D1362-9497-C8D6-2E9C-250EE492BC62}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenuuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616D1362-9497-C8D6-2E9C-250EE492BC62}|Assembly-CSharp.csproj|C:\\Users\\thejo\\Documents\\CatVSDog\\assets\\scripts\\maingameuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{616D1362-9497-C8D6-2E9C-250EE492BC62}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\maingameuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReadGoogleSheet.cs",
+              "DocumentMoniker": "C:\\Users\\thejo\\Documents\\CatVSDog\\Assets\\Scripts\\ReadGoogleSheet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ReadGoogleSheet.cs",
+              "ToolTip": "C:\\Users\\thejo\\Documents\\CatVSDog\\Assets\\Scripts\\ReadGoogleSheet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ReadGoogleSheet.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T16:59:00.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SelectDifficultyUIManager.cs",
+              "DocumentMoniker": "C:\\Users\\thejo\\Documents\\CatVSDog\\Assets\\Scripts\\SelectDifficultyUIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SelectDifficultyUIManager.cs",
+              "ToolTip": "C:\\Users\\thejo\\Documents\\CatVSDog\\Assets\\Scripts\\SelectDifficultyUIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SelectDifficultyUIManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T14:54:47.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SelectModeUIManager.cs",
+              "DocumentMoniker": "C:\\Users\\thejo\\Documents\\CatVSDog\\Assets\\Scripts\\SelectModeUIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SelectModeUIManager.cs",
+              "ToolTip": "C:\\Users\\thejo\\Documents\\CatVSDog\\Assets\\Scripts\\SelectModeUIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SelectModeUIManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T14:38:53.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainMenuUIManager.cs",
+              "DocumentMoniker": "C:\\Users\\thejo\\Documents\\CatVSDog\\Assets\\Scripts\\MainMenuUIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenuUIManager.cs",
+              "ToolTip": "C:\\Users\\thejo\\Documents\\CatVSDog\\Assets\\Scripts\\MainMenuUIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenuUIManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T14:48:06.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainGameUIManager.cs",
+              "DocumentMoniker": "C:\\Users\\thejo\\Documents\\CatVSDog\\Assets\\Scripts\\MainGameUIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainGameUIManager.cs",
+              "ToolTip": "C:\\Users\\thejo\\Documents\\CatVSDog\\Assets\\Scripts\\MainGameUIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainGameUIManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T08:27:50.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameOverUIManager.cs",
+              "DocumentMoniker": "C:\\Users\\thejo\\Documents\\CatVSDog\\Assets\\Scripts\\GameOverUIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameOverUIManager.cs",
+              "ToolTip": "C:\\Users\\thejo\\Documents\\CatVSDog\\Assets\\Scripts\\GameOverUIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameOverUIManager.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwDAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T23:44:56.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SpecialItemManager.cs",
+              "DocumentMoniker": "C:\\Users\\thejo\\Documents\\CatVSDog\\Assets\\Scripts\\SpecialItemManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SpecialItemManager.cs",
+              "ToolTip": "C:\\Users\\thejo\\Documents\\CatVSDog\\Assets\\Scripts\\SpecialItemManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SpecialItemManager.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAcwDIAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T22:16:44.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerCharacter.cs",
+              "DocumentMoniker": "C:\\Users\\thejo\\Documents\\CatVSDog\\Assets\\Scripts\\PlayerCharacter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerCharacter.cs",
+              "ToolTip": "C:\\Users\\thejo\\Documents\\CatVSDog\\Assets\\Scripts\\PlayerCharacter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerCharacter.cs",
+              "ViewState": "AQIAAKcAAAAAAAAAAAAwwL0AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T18:45:23.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ThrowItem.cs",
+              "DocumentMoniker": "C:\\Users\\thejo\\Documents\\CatVSDog\\Assets\\Scripts\\ThrowItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ThrowItem.cs",
+              "ToolTip": "C:\\Users\\thejo\\Documents\\CatVSDog\\Assets\\Scripts\\ThrowItem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ThrowItem.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAYwE4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:57:49.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\thejo\\Documents\\CatVSDog\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\thejo\\Documents\\CatVSDog\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAmwI8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T09:53:54.238Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
